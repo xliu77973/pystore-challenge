@@ -1,0 +1,18 @@
+Sales Analysis
+------------------------------------------
+Total Orders: 30
+Total Sales: $19500.00
+------------------------------------------
+Product List:
+Laptop
+Mouse
+Keyboard
+Monitor
+------------------------------------------
+Sales by Product:
+Laptop: $16500
+Mouse: $300
+Keyboard: $600
+Monitor: $2100
+------------------------------------------
+Top Product: Laptop
